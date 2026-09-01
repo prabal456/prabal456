@@ -1,6 +1,5 @@
 Hi, I'm Prabal Shukla 👋
-<p align="center"> <img src="xyz.pbt" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" /> </p>
-alt"this is a panda image"
+<p align="center"> <img src="" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" /> </p>
 👨‍💻 About Me
 
 I'm Prabal Shukla, an MCA student at IIPS, DAVV, Indore.
