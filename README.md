@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Prabal Shukla
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MCA+1st+Year+Student+%40+IIPS;Aspiring+Software+Developer;Code+%7C+Learn+%7C+Build+%7C+Repeat+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" /> </p>
 🧑‍💻 About Me
 
