@@ -1,5 +1,6 @@
 Hi, I'm Prabal Shukla 👋
-<p align="center"> <img src="https://static01.nyt.com/images/2020/08/16/reader-center/14-panda-baby/14-panda-baby-videoSixteenByNineJumbo1600.jpg" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" /> </p>
+<p align="center"> <img src="xyz.pbt" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" /> </p>
+alt"this is a panda image"
 👨‍💻 About Me
 
 I'm Prabal Shukla, an MCA student at IIPS, DAVV, Indore.
